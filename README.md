@@ -1,7 +1,7 @@
 # 🚀 Tharo - Seth Tharo Hour
 *`(AI Engineer/Software Developer/Cybersecurity Enthusiast)`*
 
-G'day! 😊 Based in the U.S., I'm a software and AI developer building intelligent solutions one project at a time. All projects start from the ground up - from research and design to deployment and real-world implementation. I'm passionate about machine learning, cybersecurity, and creating technology that produce positive societal impact.
+G'day! 😊 Based in the U.S., I'm a software and AI engineer building intelligent solutions one project at a time. All projects start from the ground up - from research and design to deployment and real-world implementation. I'm passionate about machine learning, cybersecurity, and creating technology that produce positive societal impact.
 
 ---
 

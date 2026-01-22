@@ -32,7 +32,7 @@ G'day! 😊 Based in the U.S., I'm a software and AI engineer building intellige
 ### 🏆 Highlights
 
 - **1st Place** - EPI²C Challenge with WattWise electricity auditing app ($2,500 prize)
-- **NCAE Cyber Games 2025** - Represented FHSU, earned 1,450 points in cybersecurity challenges
+- **NCAE Cyber Games 2025** - Represented FHSU, earned 3,000+ points in cybersecurity challenges
 - **Huawei Seeds for the Future** - Outstanding Cambodian Delegate
 - **Team Leader Award** - Huawei Tech4Good Competition (2nd place, 17 teams, 5 countries)
 - **Startup Co-Founder** - Techo Startup Center Digital Platform Accelerator Cohort 2, Built Social Enterprise
